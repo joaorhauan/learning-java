@@ -77,24 +77,6 @@ public class Tv {
                     exec = false;
                     break;
             }
-            // if (command == 1) {
-            //     System.out.println(tv.toggleTv());
-            // } else if (command == 2) {
-            //     System.out.println(tv.increaseVolume());
-            // } else if (command == 3) {
-            //     System.out.println(tv.decreaseVolume());
-            // } else if (command == 4) {
-            //     System.out.println("Enter the channel number:");
-            //     int channelNumber = myScanner.nextInt();
-            //     System.out.println(tv.changeToChannel(channelNumber));
-            // } else if (command == 5) {
-            //     System.out.println(tv.nextChannel());
-            // } else if (command == 6) {
-            //     System.out.println(tv.backChannel());
-            // } else if (command == 7) {
-            //     System.out.println("Quit");
-            //     exec = false;
-            // }
         }        
     }
 }
